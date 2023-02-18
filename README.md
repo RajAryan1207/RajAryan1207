@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125695195/219870530-ce61e695-e499-4f09-8580-e2eb6dbd0085.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaryan1207&label=Profile%20views&color=0e75b6&style=flat" alt="rajaryan1207" /> </p>
 
